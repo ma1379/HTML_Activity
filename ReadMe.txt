@@ -1,0 +1,1 @@
+This project is to provide practice for HTML in various aspects.
